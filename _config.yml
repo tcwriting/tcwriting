@@ -18,6 +18,7 @@ exclude:
 - Gemfile.lock
 - demo/*
 - alembic-jekyll-theme.gemspec
+exclude: [vendor]
 
 # 2. Installed Gems
 gems:
@@ -34,16 +35,13 @@ paginate: 2 # jekyll-paginate > items per page
 paginate_path: blog/page:num # jekyll-paginate > blog page
 jekyll-mentions: https://twitter.com # jekyll-mentions > service used when @replying
 twitter:
-  username: DavidDarnes # jekyll-seo-tag > Owners twitter username
-author: DavidDarnes # jekyll-seo-tag > default author
+  username: transitioningcw # jekyll-seo-tag > Owners twitter username
+author: Transitioning # jekyll-seo-tag > default author
 social: # jekyll-seo-tag > social overrides
-  name: David Darnes # jekyll-seo-tag > real name
+  name: Transitioning to College Writing # jekyll-seo-tag > real name
   links:  # jekyll-seo-tag > social aliases (sameAs)
-    - https://twitter.com/DavidDarnes
-    - https://www.facebook.com/daviddarnes
-    - https://www.linkedin.com/in/daviddarnes
-    - https://plus.google.com/+DavidDarnes
-    - https://github.com/daviddarnes
+    - https://twitter.com/transitioningcw
+    - https://www.facebook.com/TransitioningToCollegeWriting
 
 # 4. Jekyll settings
 sass:
@@ -57,9 +55,9 @@ collections:
   posts:
     title: Posts # Needed for Siteleaf
     output: true
-    description: "My thoughts and ideas" # The post list page content
+    description: "Symposium Blog" # The post list page content
     feature_text: |
-      Welcome to the blog
+    Teachers writing about teaching writing. 
     feature_image: "https://unsplash.it/1300/400?image=1067"
 
 # 6. Jekyll collections settings
@@ -85,7 +83,7 @@ title: "Transitioning to College Writing" # Site name or title, also used in jek
 logo: "/assets/trans2.png" # Site logo, also used in jekyll-seo-tag
 description: "Each year, the Department of Writing and Rhetoric, along with other UM partners, hosts a themed Transitioning to College Writing Symposium in support of writing instruction in our area." # Site description and default description, also used in jekyll-seo-tag
 url: "httpL//transitioning.olemiss.edu" # Site url, also used in jekyll-seo-tag
-repo: "https://github.com/adavis46/tcw"
+repo: "https://github.com/tcwriting/tcwriting"
 email: "transitioning@olemiss.edu"
 disqus: ""
 avatarurl: "/assets/trans2.png" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
