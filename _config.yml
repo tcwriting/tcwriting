@@ -57,7 +57,7 @@ collections:
     output: true
     description: "Symposium Blog" # The post list page content
     feature_text: |
-    Teachers writing about teaching writing. 
+      Symposium Blog 
     feature_image: "https://unsplash.it/1300/400?image=1067"
 
 # 6. Jekyll collections settings
@@ -83,7 +83,7 @@ title: "Transitioning to College Writing" # Site name or title, also used in jek
 logo: "/assets/trans2.png" # Site logo, also used in jekyll-seo-tag
 description: "Each year, the Department of Writing and Rhetoric, along with other UM partners, hosts a themed Transitioning to College Writing Symposium in support of writing instruction in our area." # Site description and default description, also used in jekyll-seo-tag
 url: "httpL//transitioning.olemiss.edu" # Site url, also used in jekyll-seo-tag
-repo: "https://github.com/tcwriting/tcwriting"
+repo: "https://github.com/adavis46/tcw"
 email: "transitioning@olemiss.edu"
 disqus: ""
 avatarurl: "/assets/trans2.png" # Uses avatars for favicons to get multple sites, eg Gravatar, Twitter, GitHub
