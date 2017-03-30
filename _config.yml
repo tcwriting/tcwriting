@@ -56,9 +56,8 @@ collections:
     title: Posts # Needed for Siteleaf
     output: true
     description: "Symposium Blog" # The post list page content
-    feature_text: |
-      Symposium Blog 
-    feature_image: "https://unsplash.it/1300/400?image=1067"
+    feature_text: 
+    feature_image: 
 
 # 6. Jekyll collections settings
 defaults:

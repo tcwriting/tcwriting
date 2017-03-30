@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<<<<<<< HEAD
 <loc>httpL//transitioning.olemiss.edu/general/2016/08/27/example-post-one/</loc>
 <lastmod>2016-08-27T00:00:00+01:00</lastmod>
 </url>
@@ -86,5 +87,51 @@
 </url>
 <url>
 <loc>httpL//transitioning.olemiss.edu/blog/page3/</loc>
+=======
+<loc>http://localhost:4000/announcements/2017/03/30/announcing-the-2017/</loc>
+<lastmod>2017-03-30T00:00:00+01:00</lastmod>
+</url>
+<url>
+<loc>http://localhost:4000/about/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/abstracts/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/archive/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/categories/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/cfp/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/elements/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/blog/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/links/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/planners/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/program/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/register/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/search/</loc>
+</url>
+<url>
+<loc>http://localhost:4000/workshops/</loc>
+>>>>>>> 4c2a63fb6c2fcf3bd7f22a1828306ad6a6557ece
 </url>
 </urlset>

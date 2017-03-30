@@ -6,6 +6,7 @@
     
     
       {
+<<<<<<< HEAD
         "title": "Description of an Alembic",
         "excerpt": "The complete distilling apparatus consists of three parts: the “cucurbit” (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the “head” or “cap” (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping “tube” (Greek σωλήν), leading to the “receiver” (Arabic ḳābila, Greek ἄγγος or φιάλη) container.\n\n",
         "content": "The complete distilling apparatus consists of three parts: the “cucurbit” (Arabic ḳarʿa, Greek βίκος), the still pot containing the liquid to be distilled, which is heated by a flame; the “head” or “cap” (Arabic anbiḳ, Greek ἄμβιξ) which fits over the mouth of the cucurbit to receive the vapors, with an attached downward-sloping “tube” (Greek σωλήν), leading to the “receiver” (Arabic ḳābila, Greek ἄγγος or φιάλη) container. Retorts have the “cap” and the “cucurbit” made into one. The anbik is also called the raʾs (head) of the cucurbit. The liquid in the cucurbit is heated or boiled; the vapour rises into the anbik, where it cools by contact with the walls and condenses, running down the spout into the receiver. A modern descendant of the alembic is the pot still, used to produce distilled beverages. Originally from Alembic - Wikipedia ",
@@ -38,6 +39,12 @@
         "excerpt": "A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy).\n",
         "content": "A pot still is a type of still used in distilling spirits such as whisky or brandy. Heat is applied directly to the pot containing the wash (for whisky) or wine (for brandy). This is called a batch distillation (as opposed to a continuous distillation). At standard atmospheric pressure, alcohol boils at 78 °C (172 °F), while water boils at 100 °C (212 °F). During distillation, the vapour contains more alcohol than the liquid. When the vapours are condensed, the resulting liquid contains a higher concentration of alcohol. In the pot still, the alcohol and water vapour combine with esters and flow from the still through the condensing coil. There they condense into the first distillation liquid, the so-called “low wines”. The low wines have a strength of about 25–35% alcohol by volume, and flow into a second still. It is then distilled a second time to produce the colourless spirit, collected at about 70% alcohol by volume. Colour is added through maturation in an oak aging barrel, and develops over time. The modern pot still is a descendant of the alembic, an earlier distillation device. ",
         "url": "/general/2016/08/29/example-post-three/"
+=======
+        "title": "Announcing the 2017 Transitioning to College Writing Symposium",
+        "excerpt": "We hope you will join us in Oxford, MS for the sixth anniversary of our TCW Symposium on Thursday, October 19, and Friday, October 20, 2017. Take some time and explore our website. We look forward to seeing you soon!\n\n",
+        "content": "We hope you will join us in Oxford, MS for the sixth anniversary of our TCW Symposium on Thursday, October 19, and Friday, October 20, 2017. Take some time and explore our website. We look forward to seeing you soon! Our theme this year is currently under development, as is much of our website, so check back frequently for updates. This year, as in years past, we have a group of energetic and thoughtful program planners from Mississippi’s public and private middle school, high school, and 2- and 4-year colleges and universities who will assist us in developing a symposium program that responds to the needs of our Mississippi educators. ",
+        "url": "/announcements/2017/03/30/announcing-the-2017/"
+>>>>>>> 4c2a63fb6c2fcf3bd7f22a1828306ad6a6557ece
       },
     
       {
@@ -52,8 +59,8 @@
   
   {
     "title": "About",
-    "excerpt": "A demo of Markdown and HTML includes\n",
-    "content": "Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 A small element A link Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in a link reprehenderit in voluptate velit esse cillum bold text dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt italicised text in culpa qui officia deserunt mollit anim id some code est laborum.  An item An item An item An item An item Item one Item two Item three Item four Item five A simple blockquote &lt;div&gt; &lt;span&gt;Some example code&lt;/span&gt; &lt;/div&gt; Single line of code HTML Includes Contact form   Name: *    Email Address: *    Message: *      \t\t\t\t* indicates a required field \t\t\t\t \t\t\t\t \t\t\t\t  Please enable JavaScript to use the form. Demo map embed  Button include A button Icon include Video include  Image includes  This image has a caption    ",
+    "excerpt": "\n",
+    "content": " ",
     "url": "/about/"
   },
   
@@ -75,6 +82,7 @@
     "title": "Categories",
     "excerpt": "Category index\n",
     "content": " ",
+<<<<<<< HEAD
     "url": "/demo/categories/"
   },
   
@@ -82,6 +90,8 @@
     "title": "Categories",
     "excerpt": "Category index\n",
     "content": " ",
+=======
+>>>>>>> 4c2a63fb6c2fcf3bd7f22a1828306ad6a6557ece
     "url": "/categories/"
   },
   
@@ -96,6 +106,7 @@
     "title": "Elements",
     "excerpt": "A demo of Markdown and HTML includes\n",
     "content": "Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 A small element A link Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in a link reprehenderit in voluptate velit esse cillum bold text dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt italicised text in culpa qui officia deserunt mollit anim id some code est laborum.  An item An item An item An item An item Item one Item two Item three Item four Item five A simple blockquote &lt;div&gt; &lt;span&gt;Some example code&lt;/span&gt; &lt;/div&gt; Single line of code HTML Includes Contact form   Name: *    Email Address: *    Message: *      \t\t\t\t* indicates a required field \t\t\t\t \t\t\t\t \t\t\t\t  Please enable JavaScript to use the form. Demo map embed  Button include A button Icon include Video include  Image includes  This image has a caption    ",
+<<<<<<< HEAD
     "url": "/demo/elements/"
   },
   
@@ -103,10 +114,13 @@
     "title": "Elements",
     "excerpt": "A demo of Markdown and HTML includes\n",
     "content": "Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 A small element A link Lorem ipsum dolor sit amet, consectetur adip* isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua. Duis aute irure dolor in a link reprehenderit in voluptate velit esse cillum bold text dolore eu fugiat nulla pariatur. Excepteur span element sint occaecat cupidatat non proident, sunt italicised text in culpa qui officia deserunt mollit anim id some code est laborum.  An item An item An item An item An item Item one Item two Item three Item four Item five A simple blockquote &lt;div&gt; &lt;span&gt;Some example code&lt;/span&gt; &lt;/div&gt; Single line of code HTML Includes Contact form   Name: *    Email Address: *    Message: *      \t\t\t\t* indicates a required field \t\t\t\t \t\t\t\t \t\t\t\t  Please enable JavaScript to use the form. Demo map embed  Button include A button Icon include Video include  Image includes  This image has a caption    ",
+=======
+>>>>>>> 4c2a63fb6c2fcf3bd7f22a1828306ad6a6557ece
     "url": "/elements/"
   },
   
   {
+<<<<<<< HEAD
     "title": "About Alembic",
     "excerpt": "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.\n",
     "content": "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it. Fork on GitHub  Install Alembic Tip me $5 Features  Available as a starter kit or as Jekyll 3.3 theme gem Tested in all major browsers, that includes IE as well as Edge Extensive set of shortcodes to include various elements; such as buttons, icons, figure images and more Solid typographic framework from Sassline Configurable navigation via a single file Modular Jekyll components Easily interchangeable sidebar Post category support in the form of a single post index page grouped by category Built in live search using JavaScript Contact form built in using Formspree Works on GitHub Pages out of the box Built with Jekyll 3.3 Designed with Siteleaf in mind Has 9 of the most popular networks as performant sharing buttons Has documentation Examples Here are a few examples of Alembic out in the wild being used in a variety of ways:  bitpodcast.com katiesimonemusic.com joelcagedesign.com bawejakunal.github.io case2111.github.io www.10people.co.uk Installation As a Boilerplate / Fork  Fork the repo Clone down the repo with $ git clone git@github.com:username/reponame.git Delete the demo/ folder and screenshot.png files Change the CNAME record to your projects’ record Install bundler with $ gem install bundler Install gems with $ bundle install Run Jekyll with $ bundle exec jekyll serve --watch Begin hacking for your project As a Jekyll 3.3 theme gem  Download the starter /demo content, quick download link Install bundler with $ gem install bundler Install gems with $ bundle install Run Jekyll with $ bundle exec jekyll serve --watch Begin hacking for your project Boilerplate &amp; Theme differences The boilerplate kit is better for more drastic hacking and changes, a project that’s quite different to any other and needs a lot of custom work done. Additionally you’ll only be able to use this method if you want to host it on GitHub Pages, as themes can’t be submitted… yet. Using the theme will allow you to receive updates made and will be more programmatic. To make your own changes you’ll need to overwrite the files with your own. For example: If I want to change the colours of my site I’ll need to copy the _colors.scss file and create my own in _sass/colors.scss with my own changes. This is the same for all files within the theme, which means your own project will be more lean than if you were to use the boilerplate. ",
@@ -114,6 +128,8 @@
   },
   
   {
+=======
+>>>>>>> 4c2a63fb6c2fcf3bd7f22a1828306ad6a6557ece
     "title": "Welcome",
     "excerpt": "Alembic is a starting point for Jekyll projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it.\n",
     "content": "Each year, the Department of Writing and Rhetoric, along with other UM partners, hosts a themed Transitioning to College Writing Symposium in support of writing instruction in our area Welcome to the Transitioning to College Writing Symposium website, hosted by the University of Mississippi’s Department of Writing and Rhetoric. We hope you will join us in Oxford, MS for the sixth anniversary of our TCW Symposium on Thursday, October 19, and Friday, October 20, 2017. Take some time and explore our website. We look forward to seeing you soon! Our theme this year is currently under development, as is much of our website, so check back frequently for updates. This year, as in years past, we have a group of energetic and thoughtful program planners from Mississippi’s public and private middle school, high school, and 2- and 4-year colleges and universities who will assist us in developing a symposium program that responds to the needs of our Mississippi educators. We’ll also continue with our tradition of bringing outstanding scholars of composition studies and writing center studies, and we’ll be continuing with the pre-symposium workshop we introduced at the 2016 symposium: Writing Teachers Writing, a dedicated time for writing teachers to think about their own scholarship; this event is developed and hosted by the University of Mississippi’s Writing Project, which also co-hosts the annual symposia with the Department of Writing and Rhetoric. As details for our program are confirmed, we’ll post them here. We believe that our symposia are outstanding examples of the value of thinking collaboratively. We thank our academic and public sponsors who support the TCW Symposium. Each year, we host visiting scholars who have experience in helping students navigate their transitions to college writing successfully and who share their insights with our attendees. Additionally, we are able to offer low registration fees and travel grants for our attendees. This would not happen without the support of the University of Mississippi’s College of Liberal Arts, School of Education, Division of Outreach, University of Mississippi Writing Project, and Department of Writing and Rhetoric. Sincere thanks go to our public sponsors, Macmillan Publishing and W.W. Norton, and we also appreciate the support given us by the Mississippi Excellence in Teaching Program (METP), the University Writing Centers, and Fountainhead Press. ",
@@ -136,14 +152,14 @@
   
   {
     "title": "Program",
-    "excerpt": "Search for a page or post you’re looking for\n",
+    "excerpt": "\n",
     "content": " ",
     "url": "/program/"
   },
   
   {
     "title": "Registration",
-    "excerpt": "Search for a page or post you’re looking for\n",
+    "excerpt": "\n",
     "content": " ",
     "url": "/register/"
   },
@@ -152,6 +168,7 @@
     "title": "Search",
     "excerpt": "Search for a page or post you’re looking for\n",
     "content": " ",
+<<<<<<< HEAD
     "url": "/demo/search/"
   },
   
@@ -159,6 +176,8 @@
     "title": "Search",
     "excerpt": "Search for a page or post you’re looking for\n",
     "content": " ",
+=======
+>>>>>>> 4c2a63fb6c2fcf3bd7f22a1828306ad6a6557ece
     "url": "/search/"
   },
   
