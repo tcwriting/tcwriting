@@ -1,8 +1,8 @@
 ---
 title: Announcing the 2017 Transitioning to College Writing Symposium
 category: Announcements
-feature_image: "assets/feature2.png"
-image: "assets/feature2.png"
+feature_image: "/assets/feature2.png"
+image: "/assets/feature2.png"
 ---
 
 We hope you will join us in Oxford, MS for the sixth anniversary of our TCW Symposium on Thursday, October 19, and Friday, October 20, 2017. Take some time and explore our website. We look forward to seeing you soon!
