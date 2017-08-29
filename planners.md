@@ -1,7 +1,7 @@
 ---
 title: Meet the Program Planners
 
-excerpt: "A demo of Markdown and HTML includes"
+excerpt: "Names and Bios of TCW Program Planners "
 ---
 <table>
 <tr>
@@ -28,7 +28,6 @@ excerpt: "A demo of Markdown and HTML includes"
             <p>Brad has worked in writing centers since 2005, and he values the important role that centers play in fostering a culture of writing on college campuses, in high schools, and in local communities. His research interests include writing center theory, composition theory, and cultural studies. Specifically, he is interested in the intersection between writing and culture and the formation of writerly identities. Additionally, Brad is interested in writing center architecture and how space, locale, and aesthetics influence writerly engagement and efficacy.</p>
     </td>
 </tr>
-<tr>
 <tr>
     <td width="175px" style="vertical-align: top; padding: 15px"><img width="150px" height="150px" src="/assets/none.jpg" alt="Heather Freel"></td>
     <td style="vertical-align: top"><h4>Heather Freel</h4>
@@ -67,4 +66,3 @@ excerpt: "A demo of Markdown and HTML includes"
 </tr>
 </table>
 
-0
