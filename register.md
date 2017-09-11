@@ -16,9 +16,9 @@ excerpt:
 <tr><td><input type="hidden" name="on1" value="Your Name">Your Name</td></tr><tr><td><input type="text" name="os1" maxlength="200"></td></tr>
 <tr><td><input type="hidden" name="on2" value="Your Email">Your Email</td></tr><tr><td><input type="text" name="os2" maxlength="200"></td></tr>
 </table>
+<br/>
 <input type="hidden" name="currency_code" value="USD">
 <input type="image" src="https://www.paypalobjects.com/en_US/i/btn/btn_buynowCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
-<br/>
 <img alt="" border="0" src="https://www.paypalobjects.com/en_US/i/scr/pixel.gif" width="1" height="1">
 </form>
 
