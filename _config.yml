@@ -90,7 +90,6 @@ avatarurl: "/assets/trans2.png" # Uses avatars for favicons to get multple sites
 # 8. Site navigation
 navigation_header:
   Home: /
-  About: /about/
   Blog: /blog/
   Call for Proposals: /cfp/
   Program: /program/
