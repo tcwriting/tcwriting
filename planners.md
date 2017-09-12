@@ -60,7 +60,7 @@ excerpt: "Names and Bios of TCW Program Planners "
 </tr>
 <tr>
     <td width="175px" style="vertical-align: top; padding: 15px"><img width="150px" height="150px" src="/assets/nicholsbuckley.png" alt="Amber Nichols-Buckley"></td>
-    <td><h4>Amber Nichols-Buckleye</h4>
+    <td><h4>Amber Nichols-Buckley</h4>
             <p>Amber Nichols-Buckley has experience teaching in both the high school and college settings.  She is currently a member of the teaching faculty in the Department of Writing and Rhetoric at the University of Mississippi.  She teaches the first year writing sequence.</p>
     </td>
 </tr>
