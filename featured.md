@@ -3,7 +3,7 @@ title: Featured Presenters
 
 ---
 ## Renee Moore
-Mississippi Delta Community College
+*Mississippi Delta Community College*
 
 ![Renee Moore](/assets/moore.png)
 
@@ -14,7 +14,7 @@ Renee Moore, NBCT teaches English at Mississippi Delta Community College. The fo
 Her publications include: [*Performance Pay for Teachers*](https://www.teachingquality.org/content/performance-pay-teachers-designing-system-students-deserve) (2008) and [*Teaching 2030*](https://www.teachingquality.org/content/teaching-2030-now-available-kindle) (2011, Teachers College Press). Brown at 60: In the Delta, A Dream Deferred (May 2014 *Education Week*); Brown v. The African American Teacher: The Lingering Effects of Inequality In *The American Public School Teacher: Past, Present, and Future*. (May 2014 Harvard Press); Ready or Not. In *New Directions for Community Colleges* (Spring 2009 Jossey/Bass, Wiley).  Moore also maintains a popular education blog, [*TeachMoore*](https://www.teachingquality.org/blogs/ReneeMoore). 
 
 ## Kathleen Blake Yancey 
-Florida State University
+*Florida State University*
 
 ![Kathy Yancey](/assets/yancey.png)
 
@@ -29,7 +29,7 @@ With Barbara Cambridge and Darren Cambridge, she leads the Inter/National Coalit
 Her current research includes three major book projects: a co-edited collection, *Assembling Composition*, which will be published by the CCCC Studies in Writing and Rhetoric Series in 2017; a co-edited collection, *Composition, Rhetoric, and Disciplinarity: Shadows of the Past, Issues of the Moment, and Prospects for the Future*, currently under review; and a book project, *The Way We Were: A Cultural History of Everyday Writing in the 20th Century United States*. In addition, she is the lead PI for a 4-site study of the TFT writing curriculum supported by CCCC and CWPA Research Grants.
 
 ## Daniel White
-Mississippi College
+*Mississippi College*
 
 ![Daniel White](/assets/white.png)
 
@@ -40,7 +40,7 @@ Title: Going Online: Building and Sustaining an Online Writing Center
 Session Description: Transitioning an existing writing center to offer online tutoring can be challenging: selecting synchronous or asynchronous, picking a software platform, adding additional tutor training, negotiating writer and consultant privacy. There's a lot to consider. This session reviews the development, implementation, and revision of an ongoing, online writing center program. Emphasizing the tutor training model developed for Mississippi College, attendees will see one center's approach to creating and sustaining an online writing center. 
 
 ## Bud Hunt 
-Clearview Library District, Colorado 
+*Clearview Library District, Colorado* 
 
 ![Bud Hunt](/assets/hunt.png)
 
