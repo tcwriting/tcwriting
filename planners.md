@@ -37,13 +37,13 @@ excerpt: "Names and Bios of TCW Program Planners "
 <tr>
     <td width="175px" style="vertical-align: top; padding: 15px"><img width="150px" height="150px" src="/assets/none.jpg" alt="Tatiana Glushko"></td>
     <td style="vertical-align: top"><h4>Tatiana Glushko</h4>
-            <p>Dr. Tatiana Glushko is Coordinator of the Richard Wright Center at Jackson State University, where she began as a graduate tutor in 2006. She has taught English Composition and English to Speakers of Other Languages both in Russia and in the U.S. Glushko also serves on the board of Mississippi Writing Center Association.</p>
+            <p>Tatiana Glushko is Coordinator of the Richard Wright Center at Jackson State University, where she began as a graduate tutor in 2006. She has taught English Composition and English to Speakers of Other Languages both in Russia and in the U.S. Glushko also serves on the board of Mississippi Writing Center Association.</p>
     </td>
 </tr>
 <tr>
     <td width="175px" style="vertical-align: top; padding: 15px"><img width="150px" height="150px" src="/assets/none.jpg" alt="Kathy Griffin "></td>
-    <td style="vertical-align: top"><h4>Kathy Griffin</h4>
-            <p>Dr. Kathi R. Griffin has been actively involved in state and regional conversations about writing and the teaching of writing since she arrived in Mississippi in 1998. She is a founding member of the Mississippi Writing Center Association and Director of the Richard Wright Center for Writing, Rhetoric,and Research at Jackson State University. As director, she trains graduate and peer writing tutors, teaches composition, and leads workshops for faculty and students on a range of writing-related issues.</p>
+    <td style="vertical-align: top"><h4>Kathi Griffin</h4>
+            <p>Kathi R. Griffin has been actively involved in state and regional conversations about writing and the teaching of writing since she arrived in Mississippi in 1998. She is a founding member of the Mississippi Writing Center Association and Director of the Richard Wright Center for Writing, Rhetoric,and Research at Jackson State University. As director, she trains graduate and peer writing tutors, teaches composition, and leads workshops for faculty and students on a range of writing-related issues.</p>
     </td>
 </tr>
 <tr>
