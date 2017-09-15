@@ -3,57 +3,32 @@ title: Program
 layout: page
 excerpt: 
 ---
-<table style="border-collapse: collapse;
-border-spacing: 0;
-width: 100%;
-margin-bottom: 1em;
-border: none;
-    border-top-width: medium;
-    border-right-width: medium;
-    border-bottom-width: medium;
-    border-left-width: medium;
-    border-top-style: none;
-    border-right-style: none;
-    border-bottom-style: none;
-    border-left-style: none;
-    border-top-color: currentcolor;
-    border-right-color: currentcolor;
-    border-bottom-color: currentcolor;
-    border-left-color: currentcolor;
-    -moz-border-top-colors: none;
-    -moz-border-right-colors: none;
-    -moz-border-bottom-colors: none;
-    -moz-border-left-colors: none;
-    border-image-source: none;
-    border-image-slice: 100%;
-    border-image-width: 1;
-    border-image-outset: 0;
-    border-image-repeat: stretch stretch;">
-<tr class="row-1 odd">
+<table border="1">
+<tr class="row-1 odd" border="1">
 	<td colspan="5" class="column-1"><p align="center"><strong>Thursday, October 19, 2017</strong></p></td>
 </tr>
-<tr class="row-2 even">
+<tr class="row-2 even" border="1"> 
 	<td rowspan="2" class="column-1">1:30pm - 6:00pm</td><td colspan="4" class="column-2"><p align="center"><strong>Jackson Avenue Center - Atrium</strong></p></td>
 </tr>
-<tr class="row-3 odd">
+<tr class="row-3 odd" border="1">
 	<td colspan="4" class="column-2">Registration Open</td>
 </tr>
-<tr class="row-4 even">
+<tr class="row-4 even" border="1">
 	<td rowspan="2" class="column-1">2:00pm - 4:00pm</td><td colspan="4" class="column-2"><p align="center"><strong>Jackson Avenue Center - Auditorium A</strong></p></td>
 </tr>
-<tr class="row-5 odd">
+<tr class="row-5 odd" border="1">
 	<td colspan="4" class="column-2">Writing Teaching Writing Workshop with Bud Hunt, Colorado State University</td>
 </tr>
-<tr class="row-6 even">
+<tr class="row-6 even" border="1">
 	<td rowspan="2" class="column-1">4:00pm - 5:00pm</td><td colspan="4" class="column-2"><p align="center"><strong>Jackson Avenue Center - Atrium</strong></p></td>
 </tr>
-<tr class="row-7 odd">
+<tr class="row-7 odd" border="1">
 	<td colspan="4" class="column-2">Opening Reception for Networking and Conversations</td>
 </tr>
-<tr class="row-8 even">
+<tr class="row-8 even" border="1">
 	<td rowspan="2" class="column-1">5:15pm - 6:30pm</td><td colspan="4" class="column-2"><p align="center"><strong>Jackson Avenue Center - Auditorium C</strong></p></td>
 </tr>
-<tr class="row-9 odd">
+<tr class="row-9 odd" border="1">
 	<td colspan="4" class="column-2">Welcome from Tony Ammeter, University of Mississippi, Director of Outreach                 <br>
 "Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection" with Kathy Yancy, Florida State University</td>
 </tr>
