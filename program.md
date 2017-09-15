@@ -3,7 +3,7 @@ title: Program
 layout: page
 excerpt: 
 ---
-<table class="tablepress tablepress-id-6">
+<table>
 <tbody class="row-hover">
 <tr class="row-1 odd">
 	<td colspan="5" class="column-1"><p align="center"><strong>Thursday, October 19, 2017</strong></p></td>
@@ -33,9 +33,9 @@ excerpt:
 	<td colspan="4" class="column-2">Welcome from Tony Ammeter, University of Mississippi, Director of Outreach                 <br>
 "Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection" with Kathy Yancy, Florida State University</td>
 </tr>
-<tr class="row-10 even">
-	<td class="column-1"></td><td class="column-2"></td><td class="column-3"></td><td class="column-4"></td><td class="column-5"></td>
-</tr>
+</table>
+
+<table>
 <tr class="row-11 odd">
 	<td colspan="5" class="column-1"><p align="center"><strong>Friday, October 20, 2017</strong></p></td>
 </tr>
