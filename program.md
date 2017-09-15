@@ -3,7 +3,7 @@ title: Program
 layout: page
 excerpt: 
 ---
-<table border="1">
+<table>
 <tr class="row-1 odd">
 	<td colspan="5" class="column-1"><p align="center"><strong>Thursday, October 19, 2017</strong></p></td>
 </tr>
