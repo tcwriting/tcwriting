@@ -33,6 +33,7 @@ excerpt:
 	<td colspan="4" class="column-2">Welcome from Tony Ammeter, University of Mississippi, Director of Outreach                 <br>
 "Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection" with Kathy Yancy, Florida State University</td>
 </tr>
+	</tbody>
 </table>
 
 <table>
