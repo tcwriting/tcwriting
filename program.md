@@ -59,7 +59,7 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 	<td colspan="4" class="column-2">Welcome from Don Dyer, Unversity of Mississippi, Associate Dean for Faculty and Academic Affairs                                                                                                                                                                    "Writing Across the Curriculum Breakfast" with various UM departments explaining writing in their discipline.</td>
 </tr>
 <tr class="odd">
-	<td rowspan="2" class="column-1">9:30am - 10:20am</td><td class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td class="column-3"><p align="center"><strong>JAC - Auditorium B</strong></p></td><td class="column-4"><p align="center"><strong>JAC - Classroom 1</strong></p></td><td class="column-5"><p align="center"><strong>JAC - Classroom 1</strong></p></td>
+	<td rowspan="2" class="column-1">9:30am - 10:20am</td><td class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td class="column-3"><p align="center"><strong>Auditorium B</strong></p></td><td class="column-4"><p align="center"><strong>JAC - Classroom 1</strong></p></td><td class="column-5"><p align="center"><strong>Classroom 1</strong></p></td>
 </tr>
 <tr>
 	<td class="column-2">"Using Choice, Pop Culture, and Service Learning to Enhance Engagement" with Dr. Nancy Kerns, Dr. Elizabeth Crews, and Dr. Mikki Galliher</td><td class="column-3">"METP Voices" with Dr. Rosemary Oliphant-Ingham</td><td class="column-4">"Grammar Grind" with Dena Holley and Alice Myatt</td><td class="column-5">Workshop with Arna Shines</td>
