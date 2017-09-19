@@ -62,7 +62,7 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 	<td rowspan="2" class="column-1">9:30am - 10:20am</td><td class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td class="column-3"><p align="center"><strong>Auditorium B</strong></p></td><td class="column-4"><p align="center"><strong>Classroom 1</strong></p></td><td class="column-5"><p align="center"><strong>Classroom 1</strong></p></td>
 </tr>
 <tr>
-	<td class="column-2"><a href="/workshops#2><p>"Using Choice, Pop Culture, and Service Learning to Enhance Engagement"</p></a> with Dr. Nancy Kerns, Dr. Elizabeth Crews, and Dr. Mikki Galliher</td><td class="column-3">"METP Voices" with Dr. Rosemary Oliphant-Ingham</td><td class="column-4"><a hread="/workshops#3><p>"Grammar Grind"</p></a> with Dena Holley and Alice Myatt</td><td class="column-5"><a href="/workshops#4"><p>"Student Perspectives on Transitioning to College Writing"</p></a> with Arna Shines, Tougaloo College</td>
+	<td class="column-2"><a href="/workshops#2"><p>"Using Choice, Pop Culture, and Service Learning to Enhance Engagement"</p></a> with Dr. Nancy Kerns, Dr. Elizabeth Crews, and Dr. Mikki Galliher</td><td class="column-3">"METP Voices" with Dr. Rosemary Oliphant-Ingham</td><td class="column-4"><a hread="/workshops#3"><p>"Grammar Grind"</p></a> with Dena Holley and Alice Myatt</td><td class="column-5"><a href="/workshops#3a"><p>"Student Perspectives on Transitioning to College Writing"</p></a> with Arna Shines, Tougaloo College</td>
 </tr>
 <tr class="odd">
 	<td rowspan="2" class="column-1">10:30am - Noon</td><td colspan="4" class="column-2"><p align="center"><strong>Auditorium A</strong></p></td>
@@ -80,7 +80,7 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 	<td rowspan="2" class="column-1">1:30pm - 2:20pm</td><td colspan="2" class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td colspan="2" class="column-4"><p align="center"><strong>Auditorium B</strong></p></td>
 </tr>
 <tr >
-	<td colspan="2" class="column-2"><a href="/workshops#4a><p>"Transitioning Writers: A Community College Perspective"</p></a> with Renee Moore, Mississippi Delta Community College</td><td colspan="2" class="column-4"><a href="/workshops#5"><p>"Forget Peer Review, Let's Try Peer Tutoring: A Practical Model for Integrating Writing Center Pedagogy Into a Secondard Language Arts Classroom"</p></a> With Daniel White, Mississippi College</td>
+	<td colspan="2" class="column-2"><a href="/workshops#4a"><p>"Transitioning Writers: A Community College Perspective"</p></a> with Renee Moore, Mississippi Delta Community College</td><td colspan="2" class="column-4"><a href="/workshops#5"><p>"Forget Peer Review, Let's Try Peer Tutoring: A Practical Model for Integrating Writing Center Pedagogy Into a Secondard Language Arts Classroom"</p></a> With Daniel White, Mississippi College</td>
 </tr>
 <tr class="odd">
 	<td rowspan="2" class="column-1">2:30pm - 3:20pm</td><td class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td class="column-3"><p align="center"><strong>Auditorium B</strong></p></td><td class="column-4"><p align="center"><strong>Classroom 1</strong></p></td><td class="column-5"><p align="center"><strong>Classroom 2</strong></p></td>
