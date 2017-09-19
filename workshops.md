@@ -49,7 +49,7 @@ Presenter: **Kathleen Blake Yancey**
 [forthcoming]
 
 ---
-
+<a id="4a"></a>
 *"Transitioning Writers: A Community College Perspective"*  
 Presenter: **Renee Moore**  
 the focus of this talk will be changing how we as writing instructors see our role and our students’ development as writers. Rather than our usual linear, hierarchical approach (always getting students “ready” for the next level up),  Moore argues that we should see and reference the journey more like a horizontal spiral, seeing ourselves as guides and helpers along the way as our students progress (and sometimes regress) in their writing journeys.
