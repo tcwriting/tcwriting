@@ -6,7 +6,7 @@ excerpt:
 All events are located at the [Jackson Avenue Center](http://www.outreach.olemiss.edu/conferencecenter/jac.html) of the University of Mississippi. 
 <table class="table1">
 <tr>
-	<td colspan="5" class="column-1"><p align="center"><strong>Thursday, October 19, 2017</strong></p></td>
+	<td colspan="5" class="column-1"><h2><strong>Thursday, October 19, 2017<h2></td>
 </tr>
 <tr  class="odd">
 	<td rowspan="2" class="column-1">1:30pm - 6:00pm</td><td colspan="4" class="column-2"><p align="center"><strong>Atrium</strong></p></td>
@@ -39,7 +39,7 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 &nbsp;
 <table class="table1">
 <tr>
-	<td colspan="5" class="column-1"><p align="center"><strong>Friday, October 20, 2017</strong></p></td>
+	<td colspan="5" class="column-1"><h2>Friday, October 20, 2017</h2></td>
 </tr>
 <tr class="odd">
 	<td rowspan="2" class="column-1">8:00am - 11:00am</td><td colspan="4" class="column-2"><p align="center"><strong>Atrium</strong></p></td>
