@@ -7,6 +7,7 @@ This year's featured presenters inlcude:
 [Kathleen Blake Yancey](#kathy)  
 [Daniel White](#dan)  
 [Bud Hunt](#bud)  
+
 ---
 <a id="renee"> </a>
 ## Renee Moore
