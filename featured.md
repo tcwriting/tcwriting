@@ -48,7 +48,8 @@ Title: Going Online: Building and Sustaining an Online Writing Center
 
 Session Description: Transitioning an existing writing center to offer online tutoring can be challenging: selecting synchronous or asynchronous, picking a software platform, adding additional tutor training, negotiating writer and consultant privacy. There's a lot to consider. This session reviews the development, implementation, and revision of an ongoing, online writing center program. Emphasizing the tutor training model developed for Mississippi College, attendees will see one center's approach to creating and sustaining an online writing center. 
 
-<a id="bud"> ## Bud Hunt </a>
+<a id="bud"> </a>
+## Bud Hunt
 *Clearview Library District, Colorado* 
 
 ![Bud Hunt](/assets/hunt.png)
