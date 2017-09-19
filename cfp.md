@@ -4,7 +4,7 @@ layout: page
 ---
 The Call for Proposals window for the 2017 Trasitioning to College Writing Symposium has closed. Please check back in January 2018 for next year's call.
 
-## 2017 Call for Proposals
+**2017 Call for Proposals**  
 *Enduring Issues: Innovative Solutions in the Writing Classroom* 
 
 The annual symposium for Mississippi’s writing teachers will be held on Thursday, October 19 and Friday, October 20 at the University of Mississippi's Oxford campus. This year’s symposium will again coincide with the National Day on Writing, sponsored by the National Writing Project. We hope you will join us for keynote speakers, workshops, and special writing events!
