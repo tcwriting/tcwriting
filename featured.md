@@ -2,12 +2,18 @@
 title: Featured Presenters
 
 ---
+This year's featured presenters inlcude: 
+[Renee Moore](#renee)
+[Kathleen Blake Yancey](#kathy)
+[Daniel White](#dan)
 [Bud Hunt](#bud)
+
+---
+<a id="renee"> </a>
 ## Renee Moore
 *Mississippi Delta Community College*
 
-![Renee Moore](/assets/moore.png)
-
+![Renee Moore](/assets/moore.png)  
 **Featured Plenary Speaker: Friday October 20, 1:30pm**
 "Transitioning Writers: A Community College Perspective"
 
@@ -15,10 +21,12 @@ Renee Moore, NBCT teaches English at Mississippi Delta Community College. The fo
 
 Her publications include: [*Performance Pay for Teachers*](https://www.teachingquality.org/content/performance-pay-teachers-designing-system-students-deserve) (2008) and [*Teaching 2030*](https://www.teachingquality.org/content/teaching-2030-now-available-kindle) (2011, Teachers College Press). Brown at 60: In the Delta, A Dream Deferred (May 2014 *Education Week*); Brown v. The African American Teacher: The Lingering Effects of Inequality In *The American Public School Teacher: Past, Present, and Future*. (May 2014 Harvard Press); Ready or Not. In *New Directions for Community Colleges* (Spring 2009 Jossey/Bass, Wiley).  Moore also maintains a popular education blog, [*TeachMoore*](https://www.teachingquality.org/blogs/ReneeMoore). 
 
+
+<a id="kathy"> </a>
 ## Kathleen Blake Yancey 
 *Florida State University*
 
-![Kathy Yancey](/assets/yancey.png)
+![Kathy Yancey](/assets/yancey.png)  
 **Featured Keynote Speaker: Thursday October 19, 5:15pm**
 "Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection"
 
@@ -35,10 +43,12 @@ With Barbara Cambridge and Darren Cambridge, she leads the Inter/National Coalit
 
 Her current research includes three major book projects: a co-edited collection, *Assembling Composition*, which will be published by the CCCC Studies in Writing and Rhetoric Series in 2017; a co-edited collection, *Composition, Rhetoric, and Disciplinarity: Shadows of the Past, Issues of the Moment, and Prospects for the Future*, currently under review; and a book project, *The Way We Were: A Cultural History of Everyday Writing in the 20th Century United States*. In addition, she is the lead PI for a 4-site study of the TFT writing curriculum supported by CCCC and CWPA Research Grants.
 
+
+<a id="dan"> </a>
 ## Daniel White
 *Mississippi College*
 
-![Daniel White](/assets/white.png)
+![Daniel White](/assets/white.png)  
 **Friday October 20, 1:30pm**
 "Forget Peer Review, Let's Try Peer Tutoring: A Practical Model for Integrating Writing Center Pedagogy Into a Secondard Language Arts Classroom"
 
@@ -52,7 +62,7 @@ Session Description: Transitioning an existing writing center to offer online tu
 ## Bud Hunt
 *Clearview Library District, Colorado* 
 
-![Bud Hunt](/assets/hunt.png)
+![Bud Hunt](/assets/hunt.png)  
 **Thursday October 19, 2:00pm**
 Facilitator for Workshop Writing Teachers Writing Workshop
 
