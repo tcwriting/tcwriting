@@ -28,7 +28,7 @@ excerpt:
 <tr class="odd">
 	<td rowspan="2" class="column-1">5:15pm - 6:30pm</td><td colspan="4" class="column-2"><p align="center"><strong>Jackson Avenue Center - Auditorium C</strong></p></td>
 </tr>
-<tr class="odd">
+<tr>
 	<td colspan="4" class="column-2">Welcome from Tony Ammeter, University of Mississippi, Director of Outreach                 <br>
 "Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection" with Kathy Yancy, Florida State University</td>
 </tr>
