@@ -2,11 +2,11 @@
 title: Featured Presenters
 
 ---
-This year's featured presenters inlcude: 
-[Renee Moore](#renee)
-[Kathleen Blake Yancey](#kathy)
-[Daniel White](#dan)
-[Bud Hunt](#bud)
+This year's featured presenters inlcude:   
+[Renee Moore](#renee)  
+[Kathleen Blake Yancey](#kathy)  
+[Daniel White](#dan)  
+[Bud Hunt](#bud)  
 
 ---
 <a id="renee"> </a>
