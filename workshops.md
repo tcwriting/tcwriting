@@ -68,7 +68,7 @@ Building a high school writing center from scratch is more than many are willing
 *"Borderlands: Teaching College Writing"*  
 Presenter: **Erin Boade**    
 
-[forthcoming]
+This panel discussion will focus on how a cohort of writing teachers each worked to integrate some of our QEP initiatives into our classrooms.  The first presentation focuses on increasing student engagement by integrating popular culture, specifically superheroes, into the classroom through a thematic approach to Freshman Composition, followed by a presentation on a Service Learning Themed Freshman Composition course in which most of the papers are focused on different aspect of a service learning project in which the students participate.  The panel is completed by a presentation on how one teacher used the “Divergent” series to work with Freshman writing students to create an engaging assignment.
 
 **Erin** (Ph.D UT-Austin) teaches various writing courses and cares about social justice issues.
 
