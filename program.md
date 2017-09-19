@@ -3,32 +3,7 @@ title: Program
 layout: page
 excerpt: 
 ---
-<table style="border-collapse: collapse;
-border-spacing: 0;
-width: 100%;
-margin-bottom: 1em;
-border: none;
-    border-top-width: medium;
-    border-right-width: medium;
-    border-bottom-width: medium;
-    border-left-width: medium;
-    border-top-style: none;
-    border-right-style: none;
-    border-bottom-style: none;
-    border-left-style: none;
-    border-top-color: currentcolor;
-    border-right-color: currentcolor;
-    border-bottom-color: currentcolor;
-    border-left-color: currentcolor;
-    -moz-border-top-colors: none;
-    -moz-border-right-colors: none;
-    -moz-border-bottom-colors: none;
-    -moz-border-left-colors: none;
-    border-image-source: none;
-    border-image-slice: 100%;
-    border-image-width: 1;
-    border-image-outset: 0;
-    border-image-repeat: stretch stretch;">
+<table class="table1">
 <tr class="row-1 odd">
 	<td colspan="5" class="column-1"><p align="center"><strong>Thursday, October 19, 2017</strong></p></td>
 </tr>
@@ -59,7 +34,7 @@ border: none;
 </tr>
 </table>
 
-<table>
+<table class="table1">
 <tr class="row-11 odd">
 	<td colspan="5" class="column-1"><p align="center"><strong>Friday, October 20, 2017</strong></p></td>
 </tr>
