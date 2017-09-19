@@ -5,7 +5,7 @@ excerpt:
 ---
 All events are located at the [Jackson Avenue Center](http://www.outreach.olemiss.edu/conferencecenter/jac.html) of the University of Mississippi. 
 
-<table>
+<table class="table1">
 <tr>
 	<td colspan="5" class="column-1"><h4 align="center">Thursday, October 19, 2017</h4></td>
 </tr>
