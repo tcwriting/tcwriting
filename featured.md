@@ -14,7 +14,7 @@ This year's featured presenters inlcude:
 *Mississippi Delta Community College*
 
 ![Renee Moore](/assets/moore.png)  
-**Featured Plenary Speaker: Friday October 20, 1:30pm**
+**Featured Plenary Speaker: Friday October 20, 1:30pm**  
 "Transitioning Writers: A Community College Perspective"
 
 Renee Moore, NBCT teaches English at Mississippi Delta Community College. The former high school English and journalism teacher was 2001 Mississippi Teacher of the Year as well as a recipient of the national [Milken Educator Award](http://www.mff.org/initiatives/signature-initiatives/milken-educator-awards/).  In 2013, Moore received the Ovid Vickers Award for Excellence in Teaching of English from her colleagues in the Two-Year College English Association of Mississippi (TYCAM). 
@@ -27,10 +27,10 @@ Her publications include: [*Performance Pay for Teachers*](https://www.teachingq
 *Florida State University*
 
 ![Kathy Yancey](/assets/yancey.png)  
-**Featured Keynote Speaker: Thursday October 19, 5:15pm**
+**Featured Keynote Speaker: Thursday October 19, 5:15pm**  
 "Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection"
 
-**Featured Plenary Speaker: Friday October 20, 10:30am**
+**Featured Plenary Speaker: Friday October 20, 10:30am**  
 "Bridging the Gap with Reflective Writing"
 
 Kathy Blake Yancey, Kellogg W. Hunt Professor of English and Distinguished Research Professor, focuses her research on composition studies generally; on students' transfer of writing knowledge and practice; on creative non-fiction; on cultural studies of everyday writing; on writing assessment, especially print and electronic portfolios; and on the intersections of culture, literacy and technologies.
@@ -49,7 +49,7 @@ Her current research includes three major book projects: a co-edited collection,
 *Mississippi College*
 
 ![Daniel White](/assets/white.png)  
-**Friday October 20, 1:30pm**
+**Friday October 20, 1:30pm**  
 "Forget Peer Review, Let's Try Peer Tutoring: A Practical Model for Integrating Writing Center Pedagogy Into a Secondard Language Arts Classroom"
 
 Daniel J. White is a former SWCA and current MSWCA president and board member. He teaches Information Literacy and Writing courses at Mississippi College, and he has collaborated on online tutoring and tutor training at three MS writing centers. 
@@ -63,7 +63,7 @@ Session Description: Transitioning an existing writing center to offer online tu
 *Clearview Library District, Colorado* 
 
 ![Bud Hunt](/assets/hunt.png)  
-**Thursday October 19, 2:00pm**
+**Thursday October 19, 2:00pm**  
 Facilitator for Workshop Writing Teachers Writing Workshop
 
 
