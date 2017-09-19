@@ -33,9 +33,9 @@ excerpt:
 "Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection" with Kathy Yancy, Florida State University</td>
 </tr>
 </table>
-
-
-
+&nbsp;
+&nbsp;
+&nbsp;
 <table class="table1">
 <tr>
 	<td colspan="5" class="column-1"><p align="center"><strong>Friday, October 20, 2017</strong></p></td>
