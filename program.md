@@ -3,6 +3,7 @@ title: Program
 layout: page
 excerpt: 
 ---
+All events are located at the [Jackson Avenue Center](http://www.outreach.olemiss.edu/conferencecenter/jac.html) of the University of Mississippi. 
 <table class="table1">
 <tr>
 	<td colspan="5" class="column-1"><p align="center"><strong>Thursday, October 19, 2017</strong></p></td>
