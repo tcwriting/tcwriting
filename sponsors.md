@@ -2,7 +2,7 @@
 title: Sponsors
 layout: page
 ---
-**DEPARTMENT OF WRITING AND RHETORIC** 
+**DEPARTMENT OF WRITING AND RHETORIC**   
 The Department of Writing and Rhetoric at the University of Mississippi was established in 2009 in response to a five-year Quality Enhancement Plan aimed at improving student writing in all disciplines. The department administers the University’s writing centers on the Oxford, DeSoto, and Tupelo campuses; it also directs composition courses for first-year students (WRIT 100, WRIT 101, WRIT 102, and LIBA 102) as well as WRIT 250 (formerly ENGL 250). W&R supports the teaching of writing in all disciplines, and offers workshops on designing writing assignments and responding to student writing as a part of their Writing Across the Curriculum initiative.
 
 **DIVISION OF OUTREACH**   
