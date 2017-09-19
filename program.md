@@ -34,6 +34,8 @@ excerpt:
 </tr>
 </table>
 
+
+
 <table class="table1">
 <tr>
 	<td colspan="5" class="column-1"><p align="center"><strong>Friday, October 20, 2017</strong></p></td>
