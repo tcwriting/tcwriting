@@ -60,7 +60,7 @@ the focus of this talk will be changing how we as writing instructors see our ro
 *"Forget Peer Review, Let's Try Peer Tutoring: A Practical Model for Integrating Writing Center Pedagogy Into a Secondard Language Arts Classroom"*  
 Presenter: **Daniel White**  
 
-[forthcoming]
+Building a high school writing center from scratch is more than many are willing to take on especially since there might be little local support or regional evidence of the benefits of establishing a writing center. This session offers practical steps for reapplying time usually spent on peer review to integrating writing center approaches within a single class or across two paired classes. Attendees will leave with instructional materials for a cursory training of peer tutors and a lesson plan template for integrating this model. By the close, support for these changes will be linked to preparing students to transition to college.
 
 ---
 
