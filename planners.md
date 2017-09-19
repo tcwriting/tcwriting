@@ -7,7 +7,7 @@ excerpt: "Names and Bios of TCW Program Planners "
 <tr>
     <td width="175px" style="vertical-align: top; padding: 15px"><img width="150px" height="150px" src="/assets/myatt.jpg" alt="Alice Myatt"></td>
     <td style="vertical-align: top"><h4>Alice Myatt</h4>
-            <p>Alice Myatt is the associate director of the Department of Writing and Rhetoric, which administers first-year composition courses at the University of Mississippi. She earned her Bachelor’s degree in English from the University of Mississippi and earned her Ph. D. in English with a concentration in Composition and Rhetoric from Georgia State University in Atlanta</p>
+            <p>Alice Myatt is an assistant professor and the assistant chair of the Department of Writing and Rhetoric, which administers first-year composition courses at the University of Mississippi. She earned her Bachelor’s degree in English from the University of Mississippi and earned her Ph. D. in English with a concentration in Composition and Rhetoric from Georgia State University in Atlanta</p>
     </td>
 </tr>
 <tr>
