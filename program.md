@@ -62,13 +62,13 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 	<td rowspan="2" class="column-1">9:30am - 10:20am</td><td class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td class="column-3"><p align="center"><strong>Auditorium B</strong></p></td><td class="column-4"><p align="center"><strong>Classroom 1</strong></p></td><td class="column-5"><p align="center"><strong>Classroom 1</strong></p></td>
 </tr>
 <tr>
-	<td class="column-2">"Using Choice, Pop Culture, and Service Learning to Enhance Engagement" with Dr. Nancy Kerns, Dr. Elizabeth Crews, and Dr. Mikki Galliher</td><td class="column-3">"METP Voices" with Dr. Rosemary Oliphant-Ingham</td><td class="column-4">"Grammar Grind" with Dena Holley and Alice Myatt</td><td class="column-5">"Student Perspectives on Transitioning to College Writing" with Arna Shines, Tougaloo College</td>
+	<td class="column-2"><a href="/workshops#2><p>"Using Choice, Pop Culture, and Service Learning to Enhance Engagement"</p></a> with Dr. Nancy Kerns, Dr. Elizabeth Crews, and Dr. Mikki Galliher</td><td class="column-3">"METP Voices" with Dr. Rosemary Oliphant-Ingham</td><td class="column-4"><a hread="/workshops#3><p>"Grammar Grind"</p></a> with Dena Holley and Alice Myatt</td><td class="column-5"><a href="/workshops#4"><p>"Student Perspectives on Transitioning to College Writing"</p></a> with Arna Shines, Tougaloo College</td>
 </tr>
 <tr class="odd">
 	<td rowspan="2" class="column-1">10:30am - Noon</td><td colspan="4" class="column-2"><p align="center"><strong>Auditorium A</strong></p></td>
 </tr>
 <tr >
-	<td colspan="4" class="column-2">"Bridging the Gap with Reflective Writing" with Kathy Yancy, Florida State University</td>
+	<td colspan="4" class="column-2"><a hread="/workshops#4"><p>"Bridging the Gap with Reflective Writing"</p></a> with Kathy Yancy, Florida State University</td>
 </tr>
 <tr class="odd">
 	<td rowspan="2" class="column-1">Noon - 1:15pm</td><td colspan="4" class="column-2"><p align="center"><strong>Auditorium A</strong></p></td>
@@ -80,12 +80,12 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 	<td rowspan="2" class="column-1">1:30pm - 2:20pm</td><td colspan="2" class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td colspan="2" class="column-4"><p align="center"><strong>Auditorium B</strong></p></td>
 </tr>
 <tr >
-	<td colspan="2" class="column-2">"Transitioning Writers: A Community College Perspective" with Renee Moore, Mississippi Delta Community College</td><td colspan="2" class="column-4">"Forget Peer Review, Let's Try Peer Tutoring: A Practical Model for Integrating Writing Center Pedagogy Into a Secondard Language Arts Classroom" With Daniel White, Mississippi College</td>
+	<td colspan="2" class="column-2"><a href="/workshops#4a><p>"Transitioning Writers: A Community College Perspective"</p></a> with Renee Moore, Mississippi Delta Community College</td><td colspan="2" class="column-4"><a href="/workshops#5"><p>"Forget Peer Review, Let's Try Peer Tutoring: A Practical Model for Integrating Writing Center Pedagogy Into a Secondard Language Arts Classroom"</p></a> With Daniel White, Mississippi College</td>
 </tr>
 <tr class="odd">
 	<td rowspan="2" class="column-1">2:30pm - 3:20pm</td><td class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td class="column-3"><p align="center"><strong>Auditorium B</strong></p></td><td class="column-4"><p align="center"><strong>Classroom 1</strong></p></td><td class="column-5"><p align="center"><strong>Classroom 2</strong></p></td>
 </tr>
 <tr>
-	<td class="column-2">"Back to Basics: Using Critical Reading to Explore Research Writing" with Sarah Wilson and "Borderlands: Teaching College Writing" with Erin Boade</td><td class="column-3">"Writing to Ignite Science Standard Immersion" with Leigh Anne Eaton</td><td class="column-4">"Facilitating Empathy in the Composition Classroom" with Amber Nichols-Buckley, Jenny Bucksbarg, Jenny Jackson, Colleen Thorndike, and Alison Hitch</td><td class="column-5">"Making It Real: Students Using a Local Archive to Write on Issues that Matter" with Tatiana Gluschko, Kathi Griffin, and Shanna Smith</td>
+	<td class="column-2"><a href="/workshops#7"><p>"Back to Basics: Using Critical Reading to Explore Research Writing"</a> with Sarah Wilson and <a href="/workshops#6">"Borderlands: Teaching College Writing"</p></a> with Erin Boade</td><td class="column-3"><a href="/workshops#8"><p>"Writing to Ignite Science Standard Immersion"</p></a> with Leigh Anne Eaton</td><td class="column-4"><a href="/workshops#9"><p>Facilitating Empathy in the Composition Classroom"</p></a> with Amber Nichols-Buckley, Jenny Bucksbarg, Jenny Jackson, Colleen Thorndike, and Alison Hitch</td><td class="column-5"><a href="/workshops#10"><p>Making It Real: Students Using a Local Archive to Write on Issues that Matter"</p></a> with Tatiana Gluschko, Kathi Griffin, and Shanna Smith</td>
 </tr>
 </table>
