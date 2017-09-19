@@ -1,10 +1,11 @@
 ---
-title: Workshops
+title: Session Information
 
 ---
+## Writing Teachers Writing Workshop (Thursday Oct 19)
 This year, we’ll be continuing with the pre-symposium workshop we introduced at the 2016 symposium: Writing Teachers Writing, a dedicated time for writing teachers to think about their own scholarship, led by Bud Hunt (Bud the Teacher blogger), a teacher-consultant with the Colorado State University Writing Project, an affiliate of the National Writing Project, a group working to improve the teaching of writing in schools via regular and meaningful professional development. Bud is a former co-editor of the New Voices column of English Journal, a publication of the National Council of Teachers of English, and a co-founder of [Learning 2.0: A Colorado Conversation](http://colearning.wikispaces.com/). In 2013, Bud was named a [ConnectED Champion of Change](http://www.whitehouse.gov/champions/connected/bud-hunt) by the White House. This event is developed and hosted by the University of Mississippi’s Writing Project, which also co-hosts the annual symposia with the Department of Writing and Rhetoric.
 
-## Workshop Participants 
+## Concurrent Session Highlights (Friday Oct 20) 
 **Leigh Eaton**  
 I am a public school teacher with thirteen years experience. I have taught all subjects and from fifth grade through twelfth grade. I am currently teaching at Itawamba County Schools. I teach fifth grade science and social studies at Dorsey Attendance Center. I joined the National Writing Project through the University of Mississippi Writing Project in 2016. I love to integrate writing into everything I teach. I feel it gives students a chance to express themselves and find deeper meaning in the core subject matter.
 
