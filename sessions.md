@@ -134,7 +134,7 @@ Thinking critically and with empathy are not innate practices for students, but 
 ---
 
 <a id="10"></a>
-*Making It Real: Students Using a Local Archive to Write on Issues that Matter"*  
+*"Making It Real: Students Using a Local Archive to Write on Issues that Matter"*  
 Presenters: **Tatiana Glushko, Kathi Griffin, and Shanna Smith**  
 
 Friday, 2:30pm: Classroom 2
