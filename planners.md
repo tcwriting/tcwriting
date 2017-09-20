@@ -19,7 +19,7 @@ excerpt: "Names and Bios of TCW Program Planners "
 <tr>
     <td width="175px" style="vertical-align: top; padding: 15px"><img width="150px" height="150px" src="/assets/begnaud.png" alt="Anna Britt Begnau"></td>
     <td style="vertical-align: top"><h4>Anna Britt Begnaud</h4>
-            <p>Anna Britt Begnaud is the Writing Centers Director at Itawamba Community College; she teaches composition courses, is a self-confessed foodie, and collects passport cancellations from the national parks with her husband, Jonathan.</p>
+            <p>Anna Britt Begnaud is the chair of the English Department at Itawamba Community College; she teaches composition courses, is a self-confessed foodie, and collects passport cancellations from the national parks with her husband, Jonathan.</p>
     </td>
 </tr>
 <tr>
