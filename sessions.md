@@ -16,6 +16,8 @@ In this interactive keynote, we will pause to consider, and to articulate, curre
 
 ---
 #### Concurrent Session Highlights
+---
+
 <a id="2"></a>
 *"Using Choice, Pop Culture, and Service Learning to Enhance Engagement"*  
 Presenters: **Dr. Nancy Kerns, Dr. Elizabeth Crews, and Dr. Mikki Galliher** 
