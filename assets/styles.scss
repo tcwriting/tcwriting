@@ -92,7 +92,7 @@ th, td {
   @include flexbox;
   @include align-items(center);
   img {
-    max-height: 4rem;
+    max-height: 6rem;
   }
 }
 
