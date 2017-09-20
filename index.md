@@ -6,8 +6,9 @@ image: "/assets/feature.jpg"
 excerpt: 
 ---
 
-Each year, the Department of Writing and Rhetoric, along with other UM partners, hosts a themed Transitioning to College Writing Symposium in support of writing instruction in our area.
-Welcome to the Transitioning to College Writing Symposium website, hosted by the University of Mississippi’s Department of Writing and Rhetoric. We hope you will join us in Oxford, MS for the seventh anniversary of our TCW Symposium on Thursday, October 19, and Friday, October 20, 2017. Take some time and explore our website. We look forward to seeing you soon!
+Welcome to the Transitioning to College Writing Symposium website, hosted by the University of Mississippi’s [Department of Writing and Rhetoric](http://rhetoric.olemiss.edu). Each year, the [UM Writing Project](http://www.outreach.olemiss.edu/writing_project/) and our department, along with other UM partners, present a themed Transitioning to College Writing Symposium in support of writing instruction in our area. 
+
+We hope you will join us in Oxford, MS for the seventh anniversary of our TCW Symposium on Thursday, October 19, and Friday, October 20, 2017. Take some time and explore our website. We look forward to seeing you soon!
 
 Our theme this year is "Enduring Issues: Innovative Solutions in the Writing Classroom." Our theme is based on the realization that each year, we face some enduring issues, and each year, we learn from and encourage each other to bring innovative solutions to these issues. This year, as in years past, we have a group of energetic and thoughtful program planners from Mississippi’s public and private middle school, high school, and 2- and 4-year colleges and universities who have been assisting us in developing a symposium program that responds to the needs of our Mississippi educators.
 
