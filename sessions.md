@@ -27,7 +27,7 @@ Our panel explores ways the Blue Mountain College English faculty have worked to
 ---
 
 <a id="3"></a>
-*"Grammar Grind"*  
+*Moving Beyond the 'Grammar Grind' to 'Grammar in Style'*  
 Presenters: **Dena Holley and Alice Myatt**  
 
 Friday, 9:30am: Classroom 1
