@@ -65,13 +65,13 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 	<td class="column-2"><p><a href="/workshops#2">"Using Choice, Pop Culture, and Service Learning to Enhance Engagement"</a> with Dr. Nancy Kerns, Dr. Elizabeth Crews, and Dr. Mikki Galliher</p></td><td class="column-3"><p>"METP Voices" with Dr. Rosemary Oliphant-Ingham</p></td><td class="column-4"><p><a href="/workshops#3">"Grammar Grind"</a> with Dena Holley and Alice Myatt</p></td><td class="column-5"><p><a href="/workshops#3a">"Student Perspectives on Transitioning to College Writing"</a> with Arna Shines, Tougaloo College</p></td>
 </tr>
 <tr class="odd">
-	<td rowspan="2" class="column-1">10:30 - Noon</td><td colspan="4" class="column-2"><p align="center"><strong>Auditorium A</strong></p></td>
+	<td rowspan="2" class="column-1">10:30 - 12:00</td><td colspan="4" class="column-2"><p align="center"><strong>Auditorium A</strong></p></td>
 </tr>
 <tr >
 	<td colspan="4" class="column-2"><p><a href="/workshops#4">"Bridging the Gap with Reflective Writing"</a> with Kathy Yancy, Florida State University</p></td>
 </tr>
 <tr class="odd">
-	<td rowspan="2" class="column-1">Noon - 1:15</td><td colspan="4" class="column-2"><p align="center"><strong>Auditorium A</strong></p></td>
+	<td rowspan="2" class="column-1">12:00 - 1:15</td><td colspan="4" class="column-2"><p align="center"><strong>Auditorium A</strong></p></td>
 </tr>
 <tr >
 	<td colspan="4" class="column-2">Lunch is available to pick up in the Atrium                                                                                                         "First-Year Writing and Beyond" with a panel of DWR faculty discussing curiculum and assignments in core writing courses at UM.</td>
