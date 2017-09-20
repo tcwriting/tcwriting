@@ -2,10 +2,10 @@
 title: Session Information
 
 ---
-## Writing Teachers Writing Workshop
+#### Writing Teachers Writing Workshop
 This year, we’ll be continuing with the pre-symposium workshop we introduced at the 2016 symposium: Writing Teachers Writing, a dedicated time for writing teachers to think about their own scholarship, led by Bud Hunt (Bud the Teacher blogger), a teacher-consultant with the Colorado State University Writing Project, an affiliate of the National Writing Project, a group working to improve the teaching of writing in schools via regular and meaningful professional development. Bud is a former co-editor of the New Voices column of English Journal, a publication of the National Council of Teachers of English, and a co-founder of [Learning 2.0: A Colorado Conversation](http://colearning.wikispaces.com/). In 2013, Bud was named a [ConnectED Champion of Change](http://www.whitehouse.gov/champions/connected/bud-hunt) by the White House. This event is developed and hosted by the University of Mississippi’s Writing Project, which also co-hosts the annual symposia with the Department of Writing and Rhetoric.
 
-## Concurrent Session Highlights
+#### Concurrent Session Highlights
 <a id="1"></a>
 *"Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection"*  
 Presenter: **Kathleen Blake Yancey**  
