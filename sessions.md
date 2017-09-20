@@ -141,6 +141,7 @@ Friday, 2:30pm: Classroom 2
 
 In this panel, three presenters will describe the open education resource (OER) course they developed for FY composition, the pedagogy that undergirds the course, and share their collaborative experience. In the course, they invite students in transition to college writing to participate in academic conversations on issues that matter to them, to their campus community, and to the larger local, national, and international communities. The course is designed to introduce students to ways of knowledge-making and habits of mind valued in academia, such as engaging in conversation, posing and responding to critical questions, analyzing, reflecting, and drawing connections among ideas. More importantly, they sought to develop a course that would reflect, in the words of Teresa M. Redd, a “spirit of empowerment” and the importance of writing to both historical and contemporary African American culture. They will share chapters and assignments they created for the course
 
-**Tatiana** Glushko tutors, teaches writing, and trains writing tutors at Jackson State University.  
+**Tatiana** tutors, teaches writing, and trains writing tutors at Jackson State University.  
 **Kathi** is the director of the Richard Wright Center for Writing, Rhetoric, and Research at Jackson State University  
-**Shanna** is ...  
+**Shanna** is Assistant Professor of English, specializing in African American Lit, at Jackson State University.
+
