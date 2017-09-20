@@ -34,7 +34,7 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 </tr>
 <tr>
 	<td colspan="4" class="column-2"><p>Welcome from Tony meter, University of Mississippi, Director of Outreach                 <br>
-<a href="/workshops#1">"Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection"</a> with Kathy Yancy, Florida State University</p></td>
+<a href="/sessions#1">"Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection"</a> with Kathy Yancy, Florida State University</p></td>
 </tr>
 </table>
 &nbsp;
@@ -62,13 +62,13 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 	<td rowspan="2" class="column-1">9:30-10:20</td><td class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td class="column-3"><p align="center"><strong>Auditorium B</strong></p></td><td class="column-4"><p align="center"><strong>Classroom 1</strong></p></td><td class="column-5"><p align="center"><strong>Classroom 2</strong></p></td>
 </tr>
 <tr>
-	<td class="column-2"><p><a href="/workshops#2">"Using Choice, Pop Culture, and Service Learning to Enhance Engagement"</a> with Dr. Nancy Kerns, Dr. Elizabeth Crews, and Dr. Mikki Galliher</p></td><td class="column-3"><p>"METP Voices" with Dr. Rosemary Oliphant-Ingham</p></td><td class="column-4"><p><a href="/workshops#3">"Moving Beyond the 'Grammar Grind' to 'Grammar in Style'"</a> with Dena Holley and Alice Myatt</p></td><td class="column-5"><p><a href="/workshops#3a">"Student Perspectives on Transitioning to College Writing"</a> with Arna Shines, Tougaloo College</p></td>
+	<td class="column-2"><p><a href="/sessions#2">"Using Choice, Pop Culture, and Service Learning to Enhance Engagement"</a> with Dr. Nancy Kerns, Dr. Elizabeth Crews, and Dr. Mikki Galliher</p></td><td class="column-3"><p>"METP Voices" with Dr. Rosemary Oliphant-Ingham</p></td><td class="column-4"><p><a href="/sessions#3">"Moving Beyond the 'Grammar Grind' to 'Grammar in Style'"</a> with Dena Holley and Alice Myatt</p></td><td class="column-5"><p><a href="/sessions#3a">"Student Perspectives on Transitioning to College Writing"</a> with Arna Shines, Tougaloo College</p></td>
 </tr>
 <tr class="odd">
 	<td rowspan="2" class="column-1">10:30-12:00</td><td colspan="4" class="column-2"><p align="center"><strong>Auditorium A</strong></p></td>
 </tr>
 <tr >
-	<td colspan="4" class="column-2"><p><a href="/workshops#4">"Bridging the Gap with Reflective Writing"</a> with Kathy Yancy, Florida State University</p></td>
+	<td colspan="4" class="column-2"><p><a href="/sessions#4">"Bridging the Gap with Reflective Writing"</a> with Kathy Yancy, Florida State University</p></td>
 </tr>
 <tr class="odd">
 	<td rowspan="2" class="column-1">12:00-1:15</td><td colspan="4" class="column-2"><p align="center"><strong>Auditorium A</strong></p></td>
@@ -80,12 +80,12 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 	<td rowspan="2" class="column-1">1:30-2:20</td><td colspan="2" class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td colspan="2" class="column-4"><p align="center"><strong>Auditorium B</strong></p></td>
 </tr>
 <tr >
-	<td colspan="2" class="column-2"><p><a href="/workshops#4a">"Transitioning Writers: A Community College Perspective"</a> with Renee Moore, Mississippi Delta Community College</p></td><td colspan="2" class="column-4"><p><a href="/workshops#5">"Forget Peer Review, Let's Try Peer Tutoring: A Practical Model for Integrating Writing Center Pedagogy Into a Secondard Language Arts Classroom"</a> With Daniel White, Mississippi College</p></td>
+	<td colspan="2" class="column-2"><p><a href="/sessions#4a">"Transitioning Writers: A Community College Perspective"</a> with Renee Moore, Mississippi Delta Community College</p></td><td colspan="2" class="column-4"><p><a href="/sessions#5">"Forget Peer Review, Let's Try Peer Tutoring: A Practical Model for Integrating Writing Center Pedagogy Into a Secondard Language Arts Classroom"</a> With Daniel White, Mississippi College</p></td>
 </tr>
 <tr class="odd">
 	<td rowspan="2" class="column-1">2:30-3:20</td><td class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td class="column-3"><p align="center"><strong>Auditorium B</strong></p></td><td class="column-4"><p align="center"><strong>Classroom 1</strong></p></td><td class="column-5"><p align="center"><strong>Classroom 2</strong></p></td>
 </tr>
 <tr>
-	<td class="column-2"><p><a href="/workshops#7">"Back to Basics: Using Critical Reading to Explore Research Writing"</a> with Sarah Wilson and <a href="/workshops#6">"Borderlands: Teaching College Writing"</a> with Erin Boade</p></td><td class="column-3"><p><a href="/workshops#8">"Writing to Ignite Science Standard Immersion"</a> with Leigh Anne Eaton</p></td><td class="column-4"><p><a href="/workshops#9">Facilitating Empathy in the Composition Classroom"</a> with Amber Nichols-Buckley, Jenny Bucksbarg, Jenny Jackson, Colleen Thorndike, and Alison Hitch</p></td><td class="column-5"><p><a href="/workshops#10">Making It Real: Students Using a Local Archive to Write on Issues that Matter"</a> with Tatiana Gluschko, Kathi Griffin, and Shanna Smith</p></td>
+	<td class="column-2"><p><a href="/sessions#7">"Back to Basics: Using Critical Reading to Explore Research Writing"</a> with Sarah Wilson and <a href="/sessions#6">"Borderlands: Teaching College Writing"</a> with Erin Boade</p></td><td class="column-3"><p><a href="/sessions#8">"Writing to Ignite Science Standard Immersion"</a> with Leigh Anne Eaton</p></td><td class="column-4"><p><a href="/sessions#9">Facilitating Empathy in the Composition Classroom"</a> with Amber Nichols-Buckley, Jenny Bucksbarg, Jenny Jackson, Colleen Thorndike, and Alison Hitch</p></td><td class="column-5"><p><a href="/sessions#10">Making It Real: Students Using a Local Archive to Write on Issues that Matter"</a> with Tatiana Gluschko, Kathi Griffin, and Shanna Smith</p></td>
 </tr>
 </table>
