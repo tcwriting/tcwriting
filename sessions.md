@@ -8,7 +8,7 @@ This year, we’ll be continuing with the pre-symposium workshop we introduced a
 #### Keynote Address 
 <a id="1"></a>
 *"Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection"*  
-Presenter: **Kathleen Blake Yancey**  
+Presenter: [**Kathleen Blake Yancey**](/featured#kathy)  
 
 Thursday, 5:15pm: Auditorium C
 
@@ -54,7 +54,7 @@ During the 2016 academic year, Professor Arna A. Shines had the privilege of tea
 
 <a id="4"></a>
 *"Bridging the Gap with Reflective Writing"*  
-Presenter: **Kathleen Blake Yancey**  
+Presenter: [**Kathleen Blake Yancey**](/featured#kathy)  
 
 Friday, 10:30am: Auditorium A
 
@@ -63,7 +63,7 @@ Friday, 10:30am: Auditorium A
 ---
 <a id="4a"></a>
 *"Transitioning Writers: A Community College Perspective"*  
-Presenter: **Renee Moore**  
+Presenter: [**Renee Moore**](/featured#renee)  
 
 Friday, 1:30pm: Auditorium A
 
@@ -73,7 +73,7 @@ The focus of this talk will be changing how we as writing instructors see our ro
 
 <a id="5"></a>
 *"Forget Peer Review, Let's Try Peer Tutoring: A Practical Model for Integrating Writing Center Pedagogy Into a Secondard Language Arts Classroom"*  
-Presenter: **Daniel White**  
+Presenter: [**Daniel White**](/featured#dan)  
 
 Friday, 1:30pm: Auditorium B
 
