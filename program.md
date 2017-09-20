@@ -12,7 +12,7 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 	</td>
 </tr>
 <tr  class="odd">
-	<td rowspan="2" class="column-1" width="12%"><p>1:30-6:00</p></td><td colspan="4" class="column-2"><p align="center"><strong>Atrium</strong></p></td>
+	<td rowspan="2" class="column-1" width="12%">1:30-6:00</td><td colspan="4" class="column-2"><p align="center"><strong>Atrium</strong></p></td>
 </tr>
 <tr >
 	<td colspan="4" class="column-2">Registration Opens</td>
