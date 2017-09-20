@@ -5,7 +5,7 @@ title: Session Information
 #### Writing Teachers Writing Workshop
 This year, we’ll be continuing with the pre-symposium workshop we introduced at the 2016 symposium: Writing Teachers Writing, a dedicated time for writing teachers to think about their own scholarship, led by Bud Hunt (Bud the Teacher blogger), a teacher-consultant with the Colorado State University Writing Project, an affiliate of the National Writing Project, a group working to improve the teaching of writing in schools via regular and meaningful professional development. Bud is a former co-editor of the New Voices column of English Journal, a publication of the National Council of Teachers of English, and a co-founder of [Learning 2.0: A Colorado Conversation](http://colearning.wikispaces.com/). In 2013, Bud was named a [ConnectED Champion of Change](http://www.whitehouse.gov/champions/connected/bud-hunt) by the White House. This event is developed and hosted by the University of Mississippi’s Writing Project, which also co-hosts the annual symposia with the Department of Writing and Rhetoric.
 
-#### Concurrent Session Highlights
+#### Keynote Address 
 <a id="1"></a>
 *"Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection"*  
 Presenter: **Kathleen Blake Yancey**  
@@ -15,7 +15,7 @@ Thursday, 5:15pm: Auditorium C
 In this interactive keynote, we will pause to consider, and to articulate, current practices in composing, and in literacy more broadly construed. Some of our practices may not be changing: many writers like the feel of a pen, the landscape of a paper calendar. Other practices are paperless; some we participate in; others we may only be witnessing. Examples range from emailing, tweeting, and Facebooking to snapchatting, texting,  bingewatching TV--and then posting about it.  When, where, and how did we learn to engage in these practices? What are our purposes in using them? How do they shape our behaviors and perceptions, and how do we re-shape them? Are we competent at one of these practices, at some, or at all, and how do we know? Not least, what do these questions and their answers tell us about literacy, about writing, and about the learning and teaching of writing?
 
 ---
-
+#### Concurrent Session Highlights
 <a id="2"></a>
 *"Using Choice, Pop Culture, and Service Learning to Enhance Engagement"*  
 Presenters: **Dr. Nancy Kerns, Dr. Elizabeth Crews, and Dr. Mikki Galliher** 
@@ -65,7 +65,7 @@ Presenter: **Renee Moore**
 
 Friday, 1:30pm: Auditorium A
 
-the focus of this talk will be changing how we as writing instructors see our role and our students’ development as writers. Rather than our usual linear, hierarchical approach (always getting students “ready” for the next level up),  Moore argues that we should see and reference the journey more like a horizontal spiral, seeing ourselves as guides and helpers along the way as our students progress (and sometimes regress) in their writing journeys.
+The focus of this talk will be changing how we as writing instructors see our role and our students’ development as writers. Rather than our usual linear, hierarchical approach (always getting students “ready” for the next level up),  Moore argues that we should see and reference the journey more like a horizontal spiral, seeing ourselves as guides and helpers along the way as our students progress (and sometimes regress) in their writing journeys.
 
 ---
 
