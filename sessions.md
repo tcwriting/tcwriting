@@ -29,7 +29,7 @@ Our panel explores ways the Blue Mountain College English faculty have worked to
 ---
 
 <a id="3"></a>
-*Moving Beyond the 'Grammar Grind' to 'Grammar in Style'*  
+*"Moving Beyond the 'Grammar Grind' to 'Grammar in Style'"*  
 Presenters: **Dena Holley and Alice Myatt**  
 
 Friday, 9:30am: Classroom 1
@@ -58,7 +58,7 @@ Presenter: [**Kathleen Blake Yancey**](/featured#kathy)
 
 Friday, 10:30am: Auditorium A
 
-[forthcoming]
+This Friday morning plenary session will be an interactive workshop led by Kathleen Blake Yancey; it will invite attendees to discuss the value of reflective writing assignments that engage students in writing and fostering transfer of knowledge, to identify criteria useful for assessment of such assignments, and to develop a reflective writing assignment and/or a rubric for use in writing classrooms at all levels. The workshop will include time for groups to discuss strategies and ideas for using reflective writing in various disciplines.
 
 ---
 <a id="4a"></a>
