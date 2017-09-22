@@ -1,0 +1,15 @@
+---
+title: Welcome to 2017's Transitioning to College Writing Symposium
+category: Announcements
+feature_image: "/assets/feature3.png"
+---
+
+This year marks the 7th anniversary of our symposium, and it's encouraging to reflect on those years and the topics and themes we've engaged with. Our first symposium was simply named "A Symposium for Writing Teachers," and that vision of a place and space for writing teachers to meet, listen, talk, share ideas, and think remains. 
+
+In thinking of this year's meeting, we were inspired by the feedback and ideas shared with us by our state's writing teachers from a variety of educational settings. As we perused the many suggestions, we realized (we being my co-chair, Ellen Shelton of the UM Writing Project, and our core planners who come from Mississippi's secondary and post-secondary schools) that some topics remained what we chose to call "Enduring Issues." And that makes sense, really, since every year we welcome students who are in the process of transitioning from one writing landscape to another. Thus, this year we structured our program around the theme of "Enduring Issues: Innovative Solutions in the Writing Classroom."
+
+As I began to write this, I was also inspired by the beautiful banner our web designer chose to use this year. We love our logo, and this banner seems to emphasizes the sense of motion and fluidity that often accompanies transitions. It speaks also to the sense of exploration and energy that comes from engaging students in big ideas and supporting them as they transition from one phase of their lives to others.
+
+We hope you enjoy the program we've put together and that you find many takeaways, meet new and old friends, and join us as we re-energize each other with good talk, good ideas, and yes, good food.
+
+See you at the Symposium!
