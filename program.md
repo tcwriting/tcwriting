@@ -33,7 +33,7 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 	<td rowspan="2" class="column-1">5:15-6:30</td><td colspan="4" class="column-2"><p align="center"><strong>Auditorium C</strong></p></td>
 </tr>
 <tr>
-	<td colspan="4" class="column-2"><p>Welcome from Tony meter, University of Mississippi, Director of Outreach                 <br>
+	<td colspan="4" class="column-2"><p>Welcome from Tony Ammeter, University of Mississippi, Director of Outreach                 <br>
 <a href="/sessions#1">"Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection"</a> with Kathy Yancy, Florida State University</p></td>
 </tr>
 </table>
