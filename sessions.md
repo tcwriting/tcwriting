@@ -87,7 +87,7 @@ Presenter: **Erin Boade**
 
 Friday, 2:30pm: Auditorium A
 
-This panel discussion will focus on how a cohort of writing teachers each worked to integrate some of our QEP initiatives into our classrooms.  The first presentation focuses on increasing student engagement by integrating popular culture, specifically superheroes, into the classroom through a thematic approach to Freshman Composition, followed by a presentation on a Service Learning Themed Freshman Composition course in which most of the papers are focused on different aspect of a service learning project in which the students participate.  The panel is completed by a presentation on how one teacher used the “Divergent” series to work with Freshman writing students to create an engaging assignment.
+This presentation asks the question, “Should first-year students take first-year composition classes online?” In this interactive presentation, attendees will be invited to weigh in on the issue of face-to-face or online writing instruction. Boade draws on her experience as a first-year writing instructor who has taught students from Texas to New Jersey to Mississippi to online.
 
 **Erin** (Ph.D UT-Austin) teaches various writing courses and cares about social justice issues.
 
