@@ -34,7 +34,7 @@ Presenters: **Dena Holley and Alice Myatt**
 
 Friday, 9:30am: Classroom 1
 
-Teachers struggle with students' grammar issues more each year, in every grade level. Frustrations when teaching upper level classes rise as more students write in texting language and broken English. This workshop helps to eliminate that problem while simultaneously teaching the higher levels of sentence structure and coherency of thought throughout students’ writing. High school teachers work together on proposed techniques as well as share their own ideas of how to overcome this growing obstacle.
+Teachers struggle with students' grammar issues more each year, in every grade level. Frustrations when teaching upper level classes rise as more students write in texting language and broken English. This workshop helps to eliminate that problem while simultaneously teaching the higher levels of sentence structure and coherency of thought throughout students’ writing. Attendees will work together on proposed techniques as well as share their own ideas of how to overcome this growing obstacle.
 
 **Dena's** passions include reading, writing, teaching, singing, crocheting, and silently correcting the grammar of everyone who speaks to her. She graduated from The University of Mississippi with a B. A. in English Literature, and from the University of Phoenix with an M. A. in Teacher Leadership.  
 
