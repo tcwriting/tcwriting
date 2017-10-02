@@ -58,7 +58,9 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 </tr>
 <tr>
 	<td colspan="4" class="column-2">Welcome from Don Dyer, Unversity of Mississippi, Associate Dean for Faculty and Academic Affairs             
-		<br>"Writing Across the Curriculum Breakfast" with various UM departments explaining writing in their discipline.</td>
+		<br>
+		<br>
+		"Writing Across the Curriculum Breakfast" with various UM departments explaining writing in their discipline.</td>
 </tr>
 <tr class="odd">
 	<td rowspan="2" class="column-1">9:30-10:20</td><td class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td class="column-3"><p align="center"><strong>Auditorium B</strong></p></td><td class="column-4"><p align="center"><strong>Classroom 1</strong></p></td><td class="column-5"><p align="center"><strong>Classroom 2</strong></p></td>
