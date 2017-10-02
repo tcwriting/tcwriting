@@ -84,7 +84,7 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 	<td rowspan="2" class="column-1">1:30-2:20</td><td colspan="2" class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td colspan="2" class="column-4"><p align="center"><strong>Auditorium B</strong></p></td>
 </tr>
 <tr >
-	<td colspan="2" class="column-2"><p><a href="/sessions#4a">"Transitioning Writers: A Community College Perspective"</a> with Renee Moore, Mississippi Delta Community College</p></td><td colspan="2" class="column-4"><p><a href="/sessions#5">"Forget Peer Review, Let's Try Peer Tutoring: A Practical Model for Integrating Writing Center Pedagogy Into a Secondard Language Arts Classroom"</a> With Daniel White, Mississippi College</p></td>
+	<td colspan="2" class="column-2"><p><a href="/sessions#4a">"Transitioning Writers: A Community College Perspective"</a> with Renee Moore, Mississippi Delta Community College</p></td><td colspan="2" class="column-4"><p><a href="/sessions#5">"Forget Peer Review, Let's Try Peer Tutoring: A Practical Model for Integrating Writing Center Pedagogy Into a Secondard Language Arts Classroom"</a> with Daniel White, Mississippi College</p></td>
 </tr>
 <tr class="odd">
 	<td rowspan="2" class="column-1">2:30-3:20</td><td class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td class="column-3"><p align="center"><strong>Auditorium B</strong></p></td><td class="column-4"><p align="center"><strong>Classroom 1</strong></p></td><td class="column-5"><p align="center"><strong>Classroom 2</strong></p></td>
