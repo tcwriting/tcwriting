@@ -1,0 +1,19 @@
+---
+title: Contribute to the 2018 HBCU Symposium: Sharing Our Pasts and Visions for Our Future
+category: Symposium Blog
+feature_image: assets/jackson.jpg
+image: 
+---
+Early in 2018, Dr. David Green of Howard University will be hosting the second Rhetoric and Composition HBCU Symposium: Remember Our Pasts. Re-enVisioning Our Future. 
+ 
+With five HBCUs in Mississippi, we have been invited to share "our collective training and expertise as teachers of writing, language, rhetoric, and literacy” and “to think critically, historically, and with vision about our collective positions and goals within the larger Rhet-Comp community” (from the [CFP](https://community.macmillan.com/docs/DOC-8089-call-for-papers-rhet-comp-hbcu-symposium) ). 
+ 
+While we may not be able to attend the symposium in person, we do have an opportunity to let our collective voices be heard. Please join in the conversation that will take place at this year's Transitioning to College Writing Symposium - where instructors from high schools, community colleges, and HBCUs meet to discuss issues related to the teaching of writing in our communities.  
+ 
+In 2016, I learned that the first HBCU Symposium took place in 2014 at North Carolina A&T. At CCCCs, I encountered David Green who told me about that symposium. I wondered why I had not heard about it before then. In 2014 I was in my fourth year at JSU, my first as director of the Richard Wright Center for Writing, Rhetoric, and Research, so I feel like it should have been on my radar. 
+ 
+As I asked around, I learned that Andrea Lunsford and Bedford/St. Martin’s publishers were involved and knew this was something important. I wondered when the next symposium might be and how we might participate. Jimmy Fleming, my contact at Bedford/St. Martin’s, filled me in and asked about HBCUs in Mississippi. We discussed ideas about how, with budgets that continued to shrink, we might participate in a conference on the east coast and discussed a pre-symposium conversation. So when the official CFP came out last month, we thought about meeting at this year's TCW symposium.
+ 
+Since proposals are due Friday, October 20, the day we will be meeting in Oxford, we have time to think and possibly draft ideas to send to Dr. Green in lieu of our being in attendance. You might also consider submitting a proposal or attending the event as a participant. Further details will be forthcoming, and they will be shared with all who are interested.
+ 
+In any event, please plan now to join the conversation!
