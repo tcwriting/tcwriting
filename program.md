@@ -68,7 +68,7 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 <tr>
 	<td class="column-2"><p><a href="/sessions#2">"Using Choice, Pop Culture, and Service Learning to Enhance Engagement"</a> with Dr. Nancy Kerns, Dr. Elizabeth Crews, and Dr. Mikki Galliher</p></td><td class="column-3"><p>"METP Voices" with Dr. Rosemary Oliphant-Ingham</p></td><td class="column-4"><p><a href="/sessions#3">"Moving Beyond the 'Grammar Grind' to 'Grammar in Style'"</a> with Dena Holley and Alice Myatt</p></td>
 </tr>
-<tr class="odd"></tr>
+<tr class="odd">
 <td class="column-5"><p align="center"><strong>Classroom 2</strong></p></td><td class="column-5"><p align="center"><strong>Room TBA</strong></p></td>
 </tr>
 <td class="column-5"><p><a href="/sessions#3a">"Student Perspectives on Transitioning to College Writing"</a> with Arna Shines, Tougaloo College</p></td><td class="column-5"><p><a href="/symposium%20blog/2017/10/06/hbcu/">"HBCU Symposium: Sharing Our Pasts and Visions for Our Future"</a> with Kathy Griffin, Jackson State University</p></td>
