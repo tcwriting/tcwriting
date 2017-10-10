@@ -63,7 +63,7 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 		"Writing Across the Curriculum Breakfast" with various UM departments explaining writing in their discipline.</td>
 </tr>
 <tr class="odd">
-	<td rowspan="5" class="column-1">9:30-10:20</td><td class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td class="column-3"><p align="center"><strong>Auditorium B</strong></p></td><td class="column-4"><p align="center"><strong>Classroom 1</strong></p></td>
+	<td rowspan="4" class="column-1">9:30-10:20</td><td class="column-2"><p align="center"><strong>Auditorium A</strong></p></td><td class="column-3"><p align="center"><strong>Auditorium B</strong></p></td><td class="column-4"><p align="center"><strong>Classroom 1</strong></p></td>
 </tr>
 <tr>
 	<td class="column-2"><p><a href="/sessions#2">"Using Choice, Pop Culture, and Service Learning to Enhance Engagement"</a> with Dr. Nancy Kerns, Dr. Elizabeth Crews, and Dr. Mikki Galliher</p></td><td class="column-3"><p>"METP Voices" with Dr. Rosemary Oliphant-Ingham</p></td><td class="column-4"><p><a href="/sessions#3">"Moving Beyond the 'Grammar Grind' to 'Grammar in Style'"</a> with Dena Holley and Alice Myatt</p></td>
@@ -71,7 +71,6 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 <tr class="odd"></tr>
 <td class="column-5"><p align="center"><strong>Classroom 2</strong></p></td><td class="column-5"><p align="center"><strong>Room TBA</strong></p></td>
 </tr>
-<tr></tr>
 <td class="column-5"><p><a href="/sessions#3a">"Student Perspectives on Transitioning to College Writing"</a> with Arna Shines, Tougaloo College</p></td><td class="column-5"><p><a href="/symposium%20blog/2017/10/06/hbcu/">"HBCU Symposium: Sharing Our Pasts and Visions for Our Future"</a> with Kathy Griffin, Jackson State University</p></td>
 </tr>
 
