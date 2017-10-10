@@ -53,8 +53,8 @@ During the 2016 academic year, Professor Arna A. Shines had the privilege of tea
 ---
 
 <a id="3b"></a>
-*"Contribute to the 2018 HBCU Symposium: Sharing Our Pasts and Visions for Our Future"*
-Presenter: **Kathy Griffin**
+*"Contribute to the 2018 HBCU Symposium: Sharing Our Pasts and Visions for Our Future"*  
+Presenter: **Kathy Griffin**  
 
 Friday, 9:30am: Room TBA
 
