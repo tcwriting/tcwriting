@@ -52,6 +52,16 @@ During the 2016 academic year, Professor Arna A. Shines had the privilege of tea
 
 ---
 
+<a id="3b"></a>
+*"Contribute to the 2018 HBCU Symposium: Sharing Our Pasts and Visions for Our Future"*
+Presenter: **Kathy Griffin**
+
+Friday, 9:30am: Room TBA
+
+Early 2018, Dr. David Green, Howard University, will be hosting the second Rhetoric and Composition HBCU Symposium: Remember Our Pasts. Re-enVisioning Our Future. With five HBCUs in Mississippi, we have been invited to share "our collective training and expertise as teachers of writing, language, rhetoric, and literacy . . . to think critically, historically, and with vision about our collective positions and goals within the larger Rhet-Comp community” ([the CFP](https://community.macmillan.com/docs/DOC-8089-call-for-papers-rhet-comp-hbcu-symposium) is due Oct. 20). Many of us may not be able to attend the symposium, but here - where instructors from high schools, community colleges, and HBCUs meet to discuss issues related to the teaching of writing in our communities- we have the opportunity to let our collective voices be heard.  
+
+---
+
 <a id="4"></a>
 *"Bridging the Gap with Reflective Writing"*  
 Presenter: [**Kathleen Blake Yancey**](/featured#kathy)  
@@ -61,6 +71,7 @@ Friday, 10:30am: Auditorium A
 This Friday morning plenary session will be an interactive workshop led by Kathleen Blake Yancey; it will invite attendees to discuss the value of reflective writing assignments that engage students in writing and fostering transfer of knowledge, to identify criteria useful for assessment of such assignments, and to develop a reflective writing assignment and/or a rubric for use in writing classrooms at all levels. The workshop will include time for groups to discuss strategies and ideas for using reflective writing in various disciplines.
 
 ---
+
 <a id="4a"></a>
 *"Transitioning Writers: A Community College Perspective"*  
 Presenter: [**Renee Moore**](/featured#renee)  
