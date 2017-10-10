@@ -73,7 +73,7 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 <td class="column-5" colspan="4"><p align="center"><strong>Room TBA</strong></p></td>
 </tr>
 <tr>
-<td class="column-5" colspan="4"><p><a href="/symposium%20blog/2017/10/06/hbcu/">"HBCU Symposium: Sharing Our Pasts and Visions for Our Future"</a> with Kathy Griffin, Jackson State University</p></td>
+<td class="column-5" colspan="4"><p><a href="/sessions#3b">"HBCU Symposium: Sharing Our Pasts and Visions for Our Future"</a> with Kathy Griffin, Jackson State University</p></td>
 </tr>
 
 <tr class="odd">
