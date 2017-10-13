@@ -35,7 +35,7 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 <tr>
 	<td colspan="4" class="column-2"><p>Welcome from Tony Ammeter, Associate Provost, University of Mississippi               
 		<br>
-<a href="/sessions#1">"Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection"</a> with Kathey Yancy, Florida State University</p></td>
+<a href="/sessions#1">"Raising Questions about Composing in the 21st Century: The Role(s) of Language, Materials, Practices, Knowledge, and Reflection"</a> with Kathy Yancey, Florida State University</p></td>
 </tr>
 </table>
 &nbsp;
