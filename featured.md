@@ -3,10 +3,10 @@ title: Featured Presenters
 
 ---
 This year's featured presenters inlcude:   
-[Bud Hunt](#bud)  
-[Kathleen Blake Yancey](#kathy) 
-[Renee Moore](#renee)  
-[Daniel White](#dan)  
+[Bud Hunt](#bud)    
+[Kathleen Blake Yancey](#kathy)   
+[Renee Moore](#renee)    
+[Daniel White](#dan)    
 
 ---
 <a id="bud"> </a>
