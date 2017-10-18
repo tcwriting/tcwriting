@@ -6,6 +6,7 @@ title: Session Information
 <a id="0"></a>
 #### Writing Teachers Writing Workshop
 **Writing online for personal growth and professional development**  
+
 We’re on the third generation of writing tools for the Web. Or the 33. It depends on who you ask. The tools for writing on the Web have never been easier to use or harder to master, but they all rely on basic writerly moves – an understanding of purpose, an awareness of audience, and an attention to detail that matters more and more as attention to detail is paid less and less. 
 
 In this workshop, we’ll explore how teachers write online for personal growth and professional development. We’ll talk about and help you unpack your reasons for writing online, and how you might get started. 
