@@ -1,9 +1,14 @@
----
 title: Session Information
 
 ---
-#### Writing Teachers Writing Workshop
-This year, we’ll be continuing with the pre-symposium workshop we introduced at the 2016 symposium: Writing Teachers Writing, a dedicated time for writing teachers to think about their own scholarship, led by Bud Hunt (Bud the Teacher blogger), a teacher-consultant with the Colorado State University Writing Project, an affiliate of the National Writing Project, a group working to improve the teaching of writing in schools via regular and meaningful professional development. Bud is a former co-editor of the New Voices column of English Journal, a publication of the National Council of Teachers of English, and a co-founder of [Learning 2.0: A Colorado Conversation](http://colearning.wikispaces.com/). In 2013, Bud was named a [ConnectED Champion of Change](http://www.whitehouse.gov/champions/connected/bud-hunt) by the White House. This event is developed and hosted by the University of Mississippi’s Writing Project, which also co-hosts the annual symposia with the Department of Writing and Rhetoric.
+#### Writing Teachers Writing Workshop: Writing online for personal growth and professional development
+We’re on the third generation of writing tools for the Web. Or the 33. It depends on who you ask. The tools for writing on the Web have never been easier to use or harder to master, but they all rely on basic writerly moves – an understanding of purpose, an awareness of audience, and an attention to detail that matters more and more as attention to detail is paid less and less. 
+
+In this workshop, we’ll explore how teachers write online for personal growth and professional development. We’ll talk about and help you unpack your reasons for writing online, and how you might get started. 
+
+Drawing on my twelve years of writing as a teacher, an educator, and a blogger, we’ll unpack what you might want to do as a writer today, how blogging can push inquiry both in your classroom and elsewhere, and how you can get started. 
+
+*[Bud Hunt](/featured/#bud) (Bud the Teacher blogger) is a teacher-consultant with the Colorado State University Writing Project, an affiliate of the National Writing Project -- a group working to improve the teaching of writing in schools via regular and meaningful professional development.*
 
 #### Keynote Address 
 <a id="1"></a>
