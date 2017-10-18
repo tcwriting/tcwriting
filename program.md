@@ -21,7 +21,7 @@ All events are located at the [Jackson Avenue Center](http://www.outreach.olemis
 	<td valign="top" rowspan="2" class="column-1">2:00-4:00</td><td colspan="4" class="column-2"><p align="center"><strong>Auditorium B</strong></p></td>
 </tr>
 <tr>
-	<td colspan="4" class="column-2"><a href="/sessions#0">Writing Teachers Writing Workshop: Writing online for personal growth and professional development with Bud Hunt, Colorado State University</a></td>
+	<td colspan="4" class="column-2"><a href="/sessions#0">Writing Teachers Writing Workshop: Writing online for personal growth and professional development</a> with Bud Hunt, Colorado State University</td>
 </tr>
 <tr class="odd">
 	<td valign="top" rowspan="2" class="column-1">4:00-5:00</td><td colspan="4" class="column-2"><p align="center"><strong>Atrium</strong></p></td>
