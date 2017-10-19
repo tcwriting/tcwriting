@@ -3,7 +3,6 @@ title: Session Information
 
 ---
 
-<a id="0"></a>
 #### Writing Teachers Writing Workshop
 **Writing online for personal growth and professional development**  
 
