@@ -57,7 +57,7 @@ Presenter: **Arna Shines**
 
 Friday. 9:30am: Classroom 2
 
-During the 2016 academic year, Professor Arna A. Shines had the privilege of teaching the same cohort of students for both semesters. Four of her former students--Kiesha Hardison, Quinterrius Jackson, La'Trice Ramsey, and Malik Roberson share perspectives on transitioning to college writing--from high school to college and from remediation to freshman composition and beyond.
+During the 2016 academic year, Professor Arna A. Shines had the privilege of teaching the same cohort of students for both semesters. Three of her former students-- Angel Almora, Quinterrius Jackson, and Jamie Shines-- share perspectives on transitioning to college writing--from high school to college and from remediation to freshman composition and beyond.
 
 ---
 
